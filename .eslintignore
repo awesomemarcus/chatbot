@@ -1,0 +1,8 @@
+src/*.js
+test/**
+build/
+servers/
+src/assets/
+public/
+webpack.config.js
+webpack-prod.config.js
